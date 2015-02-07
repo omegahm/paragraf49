@@ -1,0 +1,94 @@
+---
+social_icons:
+  - icon: rss
+    url: /feed.xml
+    title: RSS feed
+  - icon: facebook-square
+    url: https://www.facebook.com/paragraf49
+    title: Facebook
+  - icon: twitter-square
+    url: https://www.twitter.com/@paragraf49
+    title: Twitter
+  - icon: envelope-o
+    url: mailto:info@paragraf49.dk
+    title: info@paragraf49.dk
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-8 col-md-9 col-lg-7 col-lg-offset-3">
+          {% include header.html %}
+
+          <section class="page-content">
+            {{ content }}
+          </section>
+
+          {% include footer.html %}
+        </div>
+
+        <div class="col-xs-4 col-md-3 col-lg-2 sidebar-col">
+          <aside class="page-sidebar">
+            <div class="col-md-12 social-icons">
+              {% for icon in page.social_icons %}
+                <a class="social-icon" href="{{ icon.url | prepend: site.baseurl }}" title="{{ icon.title }}">
+                  <i class="fa fa-3x fa-{{ icon.icon }}"></i>
+                </a>
+              {% endfor %}
+            </div>
+
+            <ul class="nav nav-pills nav-stacked">
+              <li><a class="page-link" href="/">Forside</a></li>
+
+              {% for page in site.pages %}
+                {% if page.title %}
+                <li>
+                  <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+
+            <strong class="posts-list-header">Indlæg</strong>
+            <ul class="nav nav-pills nav-stacked">
+              {% for post in site.posts %}
+                {% if post.title %}
+                <li>
+                  <a class="page-link" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                    <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+                    <small class="disqus-comment-count" data-disqus-url="{{ page.url | prepend: site.url }}"></small>
+                  </a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </aside>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      var disqus_shortname = 'paragraf49';
+      (function() {
+        var dsq;
+        ['embed', 'count'].forEach(function(script) {
+          dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+          dsq.src = '//' + disqus_shortname + '.disqus.com/' + script + '.js';
+          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })
+      })();
+
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-59471991-1', 'auto');
+      ga('send', 'pageview');
+</script>
+  </body>
+</html>

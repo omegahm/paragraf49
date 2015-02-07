@@ -1,0 +1,14 @@
+# Site settings
+title: Paragraf 49
+email: info@paragraf49.dk
+
+description: >
+  Dagligdags cykling med sure miner.
+  Paragraffer og færdelsloven kommer på spil.
+
+baseurl: ""
+url: "http://www.paragraf49.dk"
+
+# Build settings
+markdown: kramdown
+exclude: ["Gemfile", "Gemfile.lock"]

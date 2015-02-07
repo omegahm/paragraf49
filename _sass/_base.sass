@@ -1,0 +1,57 @@
+/**
+ * Basic styling
+ */
+body
+  font-family: $base-font-family
+  font-size: $base-font-size
+  line-height: $base-line-height
+  font-weight: 300
+  color: $text-color
+  background-color: $background-color
+  -webkit-text-size-adjust: 100%
+
+/**
+ * Set `margin-bottom` to maintain vertical rhythm
+ */
+h1, h2, h3, h4, h5, h6,
+p, pre, blockquote,
+ul, ol, dl, figure,
+  %vertical-rhythm
+  margin-bottom: $spacing-unit / 2
+
+/**
+ * Headings
+ */
+h1, h2
+  font-weight: 100
+
+h1
+  font-size: 36px
+
+h2
+  font-size: 24px
+
+/**
+ * Links
+ */
+a
+  color: darken($brand-color, 15%)
+  text-decoration: none
+
+  &:visited
+    color: darken($brand-color, 15%)
+
+  &:hover
+    color: $text-color
+    text-decoration: underline
+
+/**
+ * Blockquotes
+ */
+blockquote
+  color: $grey-color
+  padding-left: $spacing-unit / 2
+  font-size: 18px
+
+blockquote > :last-child
+  margin-bottom: 0
