@@ -7,17 +7,11 @@
   text-decoration: none
 
 .site-header h2
-  display: inline
-  margin-left: $spacing-unit
   font-size: 45px
   vertical-align: middle
 
 /* Sidebar */
 .sidebar-col
-  position: fixed
-  right: 0
-  top: 0
-  bottom: 0
   background-color: lighten($brand-color, 30%)
   padding-top: $spacing-unit
   overflow-x: hidden
@@ -34,7 +28,7 @@
   margin-bottom: $spacing-unit
 
 .social-icon + .social-icon
-  margin-left: $spacing-unit/2
+  margin-left: $spacing-unit/4
 
 .social-icon:hover
   text-decoration: none
@@ -47,9 +41,28 @@
   font-size: 60%
 
 /* Post */
-.post
-  padding-right: $spacing-unit
-
 .post-title
   border-bottom: 1px solid $grey-color-light
 
+/* Media Queries */
+@media (max-width: 992px)
+  .site-header img
+    margin: auto
+    display: block
+
+  .sidebar-col
+    padding-bottom: 20px
+
+@media (min-width: 992px)
+  .site-header h2
+    display: inline
+    margin-left: $spacing-unit
+
+  .post
+    padding-right: $spacing-unit
+
+  .sidebar-col
+    position: fixed
+    right: 0
+    top: 0
+    bottom: 0
