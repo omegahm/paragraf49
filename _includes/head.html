@@ -3,15 +3,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>
+  {% assign first_post = site.posts.first %}
+  {% capture title %}
     {% if page.title %}
-      {{ page.title }}
-    {% else if site.posts.first.title %}
-      {{ site.posts.first.title }} - {{ site.title }}
-    {% else %}
-      {{ site.title }}
+      {{ page.title }} - {{ site.title }}
+    {% else if first_post.title %}
+      {{ first_post.title }} - {{ site.title }}
     {% endif %}
-  </title>
+  {% endcapture %}
+
+  <title>{{ title | strip_newlines | replace: '  ', '' }}</title>
+
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else if first_post.title %}{{ first_post.title }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{{ "/assets/images/bike.png" | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image:type" content="image/png">
 
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
