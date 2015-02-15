@@ -24,6 +24,9 @@
   background-color: $brand-color
   color: black
 
+.facebook-like-box
+  margin-top: $spacing-unit
+
 .social-icons
   margin-bottom: $spacing-unit
 
@@ -43,6 +46,24 @@
 /* Post */
 .post-title
   border-bottom: 1px solid $grey-color-light
+
+.post .post-footer
+  border-top: 1px solid $grey-color-light
+  padding-top: $spacing-unit / 2
+  margin-top: $spacing-unit
+  margin-bottom: $spacing-unit * 2
+
+.post img
+  display: block
+  margin: auto
+  border: 2px solid #ddd
+  padding: 2px
+  border-radius: 10px
+  max-width: 80%
+
+.post img + small
+  display: block
+  text-align: center
 
 /* Media Queries */
 @media (max-width: 992px)
@@ -66,3 +87,7 @@
     right: 0
     top: 0
     bottom: 0
+
+  .facebook-like-box
+    bottom: 0
+    position: absolute
