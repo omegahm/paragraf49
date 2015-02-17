@@ -13,4 +13,3 @@ url: "http://www.paragraf49.dk"
 markdown: kramdown
 exclude: ["Gemfile", "Gemfile.lock"]
 
-future: false
