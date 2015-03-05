@@ -5,7 +5,7 @@ date:   2015-03-04
 ---
 
 Vi har indtil nu diskuteret, hvor du, som cyklist, skal placere dig på vejen, når du *bare* skal ligeud.
-En ting, som er lige mere besværlig, er højre- og venstresving.
+En ting, som er lidt mere besværlig, er højre- og venstresving.
 
 Det *nemme* her er højresvinget, så lad os starte med det:
 
