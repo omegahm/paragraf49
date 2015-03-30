@@ -75,6 +75,7 @@ social_icons:
     </div>
 
     <script type="text/javascript">
+      // GOOGLE
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -83,11 +84,12 @@ social_icons:
       ga('create', 'UA-59471991-1', 'auto');
       ga('send', 'pageview');
 
+      // FACEBOOK
       window.fbAsyncInit = function() {
         FB.init({
-          appId      : '1631918327036428',
-          xfbml      : true,
-          version    : 'v2.2'
+          appId:   '1631918327036428',
+          xfbml:   true,
+          version: 'v2.3'
         });
       };
 
@@ -98,6 +100,24 @@ social_icons:
          js.src = "//connect.facebook.net/da_DK/sdk.js";
          fjs.parentNode.insertBefore(js, fjs);
        }(document, 'script', 'facebook-jssdk'));
+
+      // STYLESHEETS
+      var css = [
+       "//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css",
+       "//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+       "{{ "/assets/stylesheets/main.css" | prepend: site.baseurl }}"
+      ];
+
+      var head = document.head;
+      var link;
+
+      css.forEach(function(elem) {
+        link = document.createElement('link');
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        link.href = elem;
+        head.appendChild(link);
+      });
     </script>
   </body>
 </html>
