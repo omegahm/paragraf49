@@ -3,3 +3,4 @@ ruby '2.2.0'
 
 gem 'jekyll'
 gem 'github-pages'
+gem 'jekyll-redirect-from'

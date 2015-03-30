@@ -2,6 +2,7 @@
 layout: post
 title:  "Se mor! Ingen hænder"
 date:   2015-03-18
+redirect_from: '/2015/03/18/se-mor-uden-haender.html'
 ---
 
 Vi tager i denne omgang en lille paragraf; én som synes meget uskyldig:

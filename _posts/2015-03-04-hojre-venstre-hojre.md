@@ -2,6 +2,7 @@
 layout: post
 title:  "Højre, venstre, højre"
 date:   2015-03-04
+redirect_from: '/2015/03/04/hojre-venstre-hojre.html'
 ---
 
 Vi har indtil nu diskuteret, hvor du, som cyklist, skal placere dig på vejen, når du *bare* skal ligeud.
@@ -53,7 +54,7 @@ Skal du til venstre i et vejkryds, skal du altså lægge dig i højre side af cy
 </small>
 
 <small id="2">
-2) 
+2)
 </small>
 
 > <small>I god tid før vejkryds skal kørende i de tilfælde, hvor kørebanen har to eller flere vognbaner, der er forbeholdt færdslen i samme retning, anbringe sig i vognbanen længst til højre, hvis der skal svinges til højre, og i vognbanen længst til venstre, hvis der skal svinges til venstre. Den, der skal lige ud, kan anbringe sig i den vognbane, som under hensyn til den øvrige færdsel og den fortsatte kørsel er den mest hensigtsmæssige.</small>

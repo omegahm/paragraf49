@@ -2,6 +2,7 @@
 layout: post
 title:  "Så flyt jer dog!"
 date:   2015-02-08
+redirect_from: '/2015/02/08/saa-flyt-jer-dog.html'
 ---
 
 Som beskrevet på [om Paragraf 49](/about/) siden, ligger grunden til navnet i Færdelslovens § 49. Denne omhandler «Særlige regler for cykler».
@@ -19,9 +20,9 @@ Til dem, som ikke er så vant til at læse lovtekster, så deler vi den lige op 
 Der er altså både snak om cykler, knallerter, scootere, og hvad der ellers måtte forefindes på cykelstien.
 
 «Må ikke føres ved siden af andet køretøj» - hvad betyder det så?
-Jo, det betyder såmen at du ikke må køre ved siden af andre, være det biler, cykler, knallerter, folk på skateboard mv. 
+Jo, det betyder såmen at du ikke må køre ved siden af andre, være det biler, cykler, knallerter, folk på skateboard mv.
 Præcis ligesom du, i følge [§15 stk. 1](https://www.retsinformation.dk/forms/r0710.aspx?id=158005#P15), skal holde så langt til højre på vejen, som muligt.
-Du må ikke køre ved siden af andre! 
+Du må ikke køre ved siden af andre!
 Så flyt jer dog!
 
 > Hvor der er tilstrækkelig plads hertil, må to cyklister dog køre ved siden af hinanden, hvis dette kan ske uden fare eller unødig ulempe.
@@ -34,7 +35,7 @@ Så flyt jer dog!
 
 >  Gives der signal til overhaling, må cyklister ikke køre ved siden af hinanden, medmindre færdselsforholdene tillader eller nødvendiggør dette.
 
-Det siger sig selv, stedet hvor der er plads til at køre ved siden af hinanden, må man selvfølgelig kun dette, hvis man overholder færdselsforholdene. 
+Det siger sig selv, stedet hvor der er plads til at køre ved siden af hinanden, må man selvfølgelig kun dette, hvis man overholder færdselsforholdene.
 Giver jeg tegn til overhaling, så flyt jer dog!
 
 > Cykel med tre eller flere hjul må dog aldrig føres ved siden af anden cykel.
@@ -43,5 +44,5 @@ Nej, du må ikke køre ved siden af en tre-hjulet cykel.
 Her tænkes selvfølgelig på de populære Christiana-cykler.
 Så selv om Hr. Danmark kører med børnene i ladet, så skal du, Fru Danmark, altså holde dig bagved, lige meget om der ellers er plads.
 
-Det betyder altså at I ikke kan fylde hele Dronning Louises Bro søndag formiddag. 
+Det betyder altså at I ikke kan fylde hele Dronning Louises Bro søndag formiddag.
 Så flyt dig dog!

@@ -2,6 +2,7 @@
 layout: post
 title:  "Ind til siden!"
 date:   2015-02-17
+redirect_from: '/2015/02/17/ind-til-siden.html'
 ---
 
 En ting, som burde ligge naturligt for alle, som bevæger sig i trafikken dagligt, burde være § 49 stk. 2.
@@ -10,7 +11,7 @@ Denne lyder:
 > Cyklist skal altid holde til højre på den vognbane, der er beliggende yderst til højre i færdselsretningen. Vognbanen ved siden af kan dog om nødvendigt anvendes under overhaling, såfremt denne ikke kan ske til højre.
 > <footer>Færdelslovens § 49 stk. 2</footer>
 
-Ind til siden! - og gerne helt ind til kantstenen. 
+Ind til siden! - og gerne helt ind til kantstenen.
 Især hvis du skal svinge til højre længere fremme.
 
 Der er nu noget underligt ved ovenstående paragraf.

@@ -12,3 +12,8 @@ url: "http://www.paragraf49.dk"
 # Build settings
 markdown: kramdown
 exclude: ["Gemfile", "Gemfile.lock"]
+
+gems:
+  - jekyll-redirect-from
+
+permalink: "/:title/"
