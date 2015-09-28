@@ -5,12 +5,12 @@ date:   2015-02-08
 redirect_from: '/2015/02/08/saa-flyt-jer-dog.html'
 ---
 
-Som beskrevet på [om Paragraf 49](/about/) siden, ligger grunden til navnet i Færdelslovens § 49. Denne omhandler «Særlige regler for cykler».
+Som beskrevet på [om Paragraf 49](/about/) siden, ligger grunden til navnet i Færdselsloven § 49. Denne omhandler «Særlige regler for cykler».
 
 Jeg tænker, at det er en god start at gå de få lovstykker igennem - og komme ud med lidt vrede i sammen omgang.
 
 > Cykel må ikke føres ved siden af andet køretøj. Hvor der er tilstrækkelig plads hertil, må to cyklister dog køre ved siden af hinanden, hvis dette kan ske uden fare eller unødig ulempe. Gives der signal til overhaling, må cyklister ikke køre ved siden af hinanden, medmindre færdselsforholdene tillader eller nødvendiggør dette. Cykel med tre eller flere hjul må dog aldrig føres ved siden af anden cykel.
-> <footer>Færdelslovens § 49 stk. 1</footer>
+> <footer>Færdselsloven § 49 stk. 1</footer>
 
 Til dem, som ikke er så vant til at læse lovtekster, så deler vi den lige op i mindre, mundrette bidder.
 

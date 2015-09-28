@@ -8,7 +8,7 @@ redirect_from: '/2015/03/18/se-mor-uden-haender.html'
 Vi tager i denne omgang en lille paragraf; én som synes meget uskyldig:
 
 > Cyklist skal under kørslen have begge fødder på pedalerne og mindst den ene hånd på styret.
-> <footer>Færdelslovens § 49 stk. 4</footer>
+> <footer>Færdselslovens § 49 stk. 4</footer>
 
 Du må altså ikke cykle **uden** hænder!
 
@@ -16,7 +16,7 @@ Du må derimod gerne cykle med kun én hånd, hvilket, hvis vi tænker os lidt o
 Hvordan ville du ellers give tegn til at skulle standse eller foretage et sving?
 
 > Førere af køretøjer må under kørsel ikke benytte sig af håndholdte mobiltelefoner.
-> <footer>Færdelslovens § 55 a.</footer>
+> <footer>Færdselslovens § 55 a.</footer>
 
 Nej, du må heller ikke snakke i håndholdte mobiltelefoner, ej heller selv om du sagtens kan cykle med én hånd.
 

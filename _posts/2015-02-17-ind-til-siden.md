@@ -9,7 +9,7 @@ En ting, som burde ligge naturligt for alle, som bevæger sig i trafikken daglig
 Denne lyder:
 
 > Cyklist skal altid holde til højre på den vognbane, der er beliggende yderst til højre i færdselsretningen. Vognbanen ved siden af kan dog om nødvendigt anvendes under overhaling, såfremt denne ikke kan ske til højre.
-> <footer>Færdelslovens § 49 stk. 2</footer>
+> <footer>Færdselslovens § 49 stk. 2</footer>
 
 Ind til siden! - og gerne helt ind til kantstenen.
 Især hvis du skal svinge til højre længere fremme.
@@ -20,11 +20,11 @@ De fleste cyklister er også gode til at overholde den - dog ikke når de cykler
 
 Det der er underligt, er definitionerne - eller mangel på samme.
 
-[Færdelslovens § 2](https://www.retsinformation.dk/forms/r0710.aspx?id=158005#Par2_Stk1) indeholder definitionerne brugt i samme.
+[Færdselslovens § 2](https://www.retsinformation.dk/forms/r0710.aspx?id=158005#Par2_Stk1) indeholder definitionerne brugt i samme.
 Her står bl.a. hvad en vognbane er:
 
 > Vognbane: enhver af de baner, i hvilke kørebanen kan deles, og som hver er tilstrækkeligt bred til at kunne benyttes af en række køretøjer med 4 hjul.
-> <footer>Færdelslovens §2, punkt 29</footer>
+> <footer>Færdselslovens §2, punkt 29</footer>
 
 ![Gocart](http://i.imgur.com/h2OKla5.jpg)
 <small>Køretøj med 4 hjul. Billedet taget fra http://www.alibaba.com/</small>
@@ -34,7 +34,7 @@ Den definition giver ingen brugbar information.
 Går vi lidt højere op i samme paragraf, ser vi definitionen på en kørebane:
 
 > Kørebane: den del af vejen, der er bestemt for kørende, herunder dog ikke cykelsti eller ridesti. Reglerne om færdsel på kørebane gælder også for færdsel på cykelsti og ridesti.
-> <footer>Færdelslovens § 2, punkt 9</footer>
+> <footer>Færdselslovens § 2, punkt 9</footer>
 
 Aha!
 Det er ikke placeringen på cykelstien, som § 49 stk. 2 behandler, men derimod cyklistens placering på "vejen".
